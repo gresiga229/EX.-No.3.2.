@@ -14,23 +14,30 @@ To create a 3D model from given orthographic projection.
 
 1. Open Fusion 360 and select the **Design → Solid** workspace.
 2. Click **Create Sketch** and select the Top (XY) plane.
-3. Choose **Sketch → Rectangle → Two-Point Rectangle**.
-4. Draw the central rectangular base profile with a length of 300 mm and a width of 150 mm.
-5. Position the rectangle symmetrically about the origin.
-6. Click **Finish Sketch**.
-7. Select **Extrude**, choose the rectangular profile and enter 30 mm as the extrusion distance.
-8. Press Enter to create the base plate.
+3. <img width="216" height="171" alt="Screenshot 2026-11-11 204524 - Copy (2)" src="https://github.com/user-attachments/assets/b8514e70-8da0-4d09-bbdd-6fe6afc61f0d" />
+
+4. Choose **Sketch → Rectangle → Two-Point Re
+5. Draw the central rectangular base profile with a length of 300 mm and a width of 150 mm.
+6. 
+7. Position the rectangle symmetrically about the origin.
+8. Click **Finish Sketch**.
+9. Select **Extrude**, choose the rectangular profile and enter 30 mm as distance
+10. <img width="460" height="617" alt="Screenshot 2026-11-11 212828" src="https://github.com/user-attachments/assets/d033f32b-c657-468f-afd6-5c821ed1c093" />
+11. 
+12. Press Enter to create the base plate.
 
 ### Step 2: Rounded end mounting plates
 
 9. Start a new sketch on the top face of the base plate.
 10. Choose **Sketch → Circle → Center Diameter Circle**.
-11. Draw a circular profile of diameter 120 mm (R60) at the left end of the base.
-12. Position the centre of the circle 150 mm from the origin along the length of the component.
-13. Repeat the same procedure at the right end, placing the second circle 150 mm from the origin in the opposite direction.
-14. Use the required connecting lines and trimming operations to form the rounded mounting ends, maintaining the overall length of 420 mm.
-15. Click **Finish Sketch**.
-16. Select **Extrude** and extend the mounting plate profiles by 30 mm, using **Join** to combine them with the base.
+11. <img width="517" height="395" alt="Screenshot 2026-11-11 204552 - Copy" src="https://github.com/user-attachments/assets/ac89ded2-e8f1-47be-b078-570738634f4b" />
+
+12. Draw a circular profile of diameter 120 mm (R60) at the left end of the base.
+13. Position the centre of the circle 150 mm from the origin along the length of the component.
+14. Repeat the same procedure at the right end, placing the second circle 150 mm from the origin in the opposite direction.
+15. Use the required connecting lines and trimming operations to form the rounded mounting ends, maintaining the overall length of 420 mm.
+16. Click **Finish Sketch**.
+17. Select **Extrude** and extend the mounting plate profiles by 30 mm, using **Join** to combine them with the base.
 
 ### Step 3: Create the arched support
 
@@ -43,7 +50,9 @@ To create a 3D model from given orthographic projection.
 23. Click **Finish Sketch**.
 24. Select **Extrude**, choose the closed arch profile and enter 150 mm as the extrusion distance.
 25. Select **Join** as the operation to connect the arched support to the base structure.
-26. Press Enter to create the arched support.
+26. <img width="230" height="311" alt="Screenshot 2026-11-16 090622" src="https://github.com/user-attachments/assets/6c75fe07-dcd9-4cfa-8f3c-f113779fbf9e" />
+
+27. Press Enter to create the arched support.
 
 ### Step 4: Create the rectangular opening
 
