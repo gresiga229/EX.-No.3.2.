@@ -18,7 +18,8 @@ To create a 3D model from given orthographic projection.
 
 4. Choose **Sketch → Rectangle → Two-Point Re
 5. Draw the central rectangular base profile with a length of 300 mm and a width of 150 mm.
-6. 
+6. <img width="435" height="433" alt="Screenshot 2026-11-16 091820" src="https://github.com/user-attachments/assets/aa0e9d2d-ea7e-4b9b-a7ee-6dfa11bd9167" />
+
 7. Position the rectangle symmetrically about the origin.
 8. Click **Finish Sketch**.
 9. Select **Extrude**, choose the rectangular profile and enter 30 mm as distance
@@ -37,7 +38,9 @@ To create a 3D model from given orthographic projection.
 14. Repeat the same procedure at the right end, placing the second circle 150 mm from the origin in the opposite direction.
 15. Use the required connecting lines and trimming operations to form the rounded mounting ends, maintaining the overall length of 420 mm.
 16. Click **Finish Sketch**.
-17. Select **Extrude** and extend the mounting plate profiles by 30 mm, using **Join** to combine them with the base.
+17. <img width="436" height="421" alt="Screenshot 2026-11-11 210017" src="https://github.com/user-attachments/assets/a9315a0b-9612-4355-a975-1aa862243754" />
+
+18. Select **Extrude** and extend the mounting plate profiles by 30 mm, using **Join** to combine them with the base.
 
 ### Step 3: Create the arched support
 
@@ -47,12 +50,14 @@ To create a 3D model from given orthographic projection.
 20. Draw two vertical lines from the ends of the semicircular arc to form the supporting sides.
 21. Connect the lower ends of the vertical lines to complete the closed arch profile.
 22. Use the **Dimension** tool to maintain an inner opening width of 120 mm as indicated in the drawing.
-23. Click **Finish Sketch**.
-24. Select **Extrude**, choose the closed arch profile and enter 150 mm as the extrusion distance.
-25. Select **Join** as the operation to connect the arched support to the base structure.
-26. <img width="230" height="311" alt="Screenshot 2026-11-16 090622" src="https://github.com/user-attachments/assets/6c75fe07-dcd9-4cfa-8f3c-f113779fbf9e" />
+23. <img width="562" height="513" alt="Screenshot 2026-11-11 204618" src="https://github.com/user-attachments/assets/b5542d0c-7534-4639-837d-8e22604d9f01" />
 
-27. Press Enter to create the arched support.
+24. Click **Finish Sketch**.
+25. Select **Extrude**, choose the closed arch profile and enter 150 mm as the extrusion distance.
+26. Select **Join** as the operation to connect the arched support to the base structure.
+27. <img width="230" height="311" alt="Screenshot 2026-11-16 090622" src="https://github.com/user-attachments/assets/6c75fe07-dcd9-4cfa-8f3c-f113779fbf9e" />
+
+28. Press Enter to create the arched support.
 
 ### Step 4: Create the rectangular opening
 
